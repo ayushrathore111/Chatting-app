@@ -1,0 +1,18 @@
+{
+    "name": "let-s-chat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon start"
+    },
+    "author": "ayush ji",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "dotenv": "^16.0.2",
+        "express": "^4.18.1",
+        "express-async-handler": "^1.2.0",
+        "jsonwebtoken": "^8.5.1"
+    }
+}
